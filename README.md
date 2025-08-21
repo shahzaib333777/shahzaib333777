@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=watchy&label=Profile%20views&color=0e75b6&style=flat" alt="watchy" />
 </p>
 
-<h1 align="center">Hi 👋, I'm watchy</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Shahzaib</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
